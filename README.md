@@ -7,10 +7,15 @@ Link APK Release  : https://drive.google.com/open?id=0BzFomwVM3RZhbmttMUh5X0NueV
 Identitas :
 
 Nama  : Muhammad Rizki Amrullah
+
 Kelas : XI RPL 4
+
 Absen : 24
+
 NIS : -
+
 Angkatan  : 24
+
 Sekolah : SMK Telkom Malang
 
 Alamat API yang digunakan : https://www.themoviedb.org/documentation/api
