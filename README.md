@@ -2,7 +2,7 @@
 
 Aplikasi  : Movie List
 
-Link APK Release  : https://drive.google.com/open?id=0BzFomwVM3RZhbmttMUh5X0NueVU
+Link APK Release  : https://drive.google.com/open?id=0BzFomwVM3RZhYWcyb0F1WnV2R00
 
 Identitas :
 
@@ -22,7 +22,7 @@ Alamat API yang digunakan : https://www.themoviedb.org/documentation/api
 
 Navigasi yang digunakan : Navigation Drawer
 
-Library dari Local Database : -
+Library dari Local Database : SQLite Dasar
 
 Deskripsi singkat : Untuk bisa melihat bermacam-macam Film yang dimainkan, film popular, dll
 
