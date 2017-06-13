@@ -22,11 +22,11 @@ Alamat API yang digunakan : https://www.themoviedb.org/documentation/api
 
 Navigasi yang digunakan : Navigation Drawer
 
-Library dari Local Database : SQLite Dasar
+Library dari Local Database : SQLite 
 
-Deskripsi singkat : Untuk bisa melihat bermacam-macam Film yang dimainkan, film popular, dll
+Deskripsi singkat : Aplikasi ini adalah aplikasi yang menggunakan API untuk melihat daftar film yang sedang ditayangkan,film yang sedang populer, film yang memiliki rating tertinggi, dan film yang akan ditayangkan.Aplikasi ini dapat menampilkan gambar, judul, dan penjelasan  dari film.Aplikasi ini menggunakan API The Movie Database untuk mengambil data film. 
 
-Kelebihan : -
+Kelebihan : Tampilan yang menarik, mudah digunakan, dapat menampilkan film yang sedang ditayangkan, film yang sedang populer, film yang memiliki rating tertinggi, dan film yang akan ditayangkan.
 
 Library lain  : -
 
